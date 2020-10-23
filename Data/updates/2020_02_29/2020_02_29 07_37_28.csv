@@ -1,0 +1,63 @@
+,"Country,Other",TotalCases,NewCases,TotalDeaths,NewDeaths,ActiveCases,TotalRecovered,"Serious,Critical"
+0,China,79257,433.0,2835.0,47.0,37312,39110.0,7664.0
+1,S. Korea,2931,594.0,17.0,1.0,2890,24.0,10.0
+2,Italy,889,,21.0,,822,46.0,64.0
+3,Diamond Princess,705,,6.0,,689,10.0,36.0
+4,Iran,388,,34.0,,281,73.0,
+5,Japan,236,3.0,5.0,,199,32.0,20.0
+6,Singapore,98,,,,29,69.0,8.0
+7,Hong Kong,93,,2.0,,61,30.0,6.0
+8,USA,66,3.0,,,59,7.0,1.0
+9,Germany,60,,,,44,16.0,2.0
+10,France,57,,2.0,,44,11.0,1.0
+11,Kuwait,45,,,,45,,
+12,Thailand,41,,,,13,28.0,2.0
+13,Bahrain,38,,,,38,,
+14,Taiwan,34,,1.0,,28,5.0,1.0
+15,Spain,33,,,,31,2.0,2.0
+16,Australia,25,,,,10,15.0,
+17,Malaysia,25,,,,5,20.0,
+18,U.K.,20,,,,12,8.0,
+19,U.A.E.,19,,,,14,5.0,2.0
+20,Canada,16,1.0,,,13,3.0,
+21,Vietnam,16,,,,0,16.0,
+22,Switzerland,15,,,,15,,
+23,Sweden,11,,,,11,,
+24,Macao,10,,,,4,6.0,
+25,Iraq,8,,,,8,,
+26,Israel,7,,,,6,1.0,
+27,Austria,6,,,,6,,
+28,Norway,6,,,,6,,
+29,Oman,6,,,,6,,
+30,Croatia,5,,,,5,,
+31,Greece,4,,,,4,,
+32,Lebanon,4,,,,4,,
+33,Philippines,3,,1.0,,0,2.0,
+34,Finland,3,,,,2,1.0,
+35,India,3,,,,0,3.0,
+36,Mexico,3,1.0,,,3,,
+37,Romania,3,,,,2,1.0,
+38,Denmark,2,,,,2,,
+39,Georgia,2,,,,2,,
+40,Netherlands,2,,,,2,,
+41,Pakistan,2,,,,2,,
+42,Russia,2,,,,0,2.0,
+43,Afghanistan,1,,,,1,,
+44,Algeria,1,,,,1,,
+45,Azerbaijan,1,,,,1,,
+46,Belarus,1,,,,1,,
+47,Belgium,1,,,,0,1.0,
+48,Brazil,1,,,,1,,
+49,Cambodia,1,,,,0,1.0,
+50,Egypt,1,,,,0,1.0,
+51,Estonia,1,,,,1,,
+52,Iceland,1,,,,1,,
+53,Lithuania,1,,,,1,,
+54,North Macedonia,1,,,,1,,
+55,Monaco,1,,,,1,,
+56,Nepal,1,,,,0,1.0,
+57,New Zealand,1,,,,1,,
+58,Nigeria,1,,,,1,,
+59,San Marino,1,,,,1,,
+60,Sri Lanka,1,,,,0,1.0,
+61,Total:,85217,1035.0,2924.0,48.0,42742,39551.0,7819.0

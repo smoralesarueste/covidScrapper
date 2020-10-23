@@ -1,0 +1,27 @@
+,Country,Cases,Deaths,Region
+0,China,9798,213,Asia
+1,Thailand,19,0,Asia
+2,Japan,17,0,Asia
+3,Singapore,16,0,Asia
+4,Hong Kong,13,0,Asia
+5,South Korea,11,0,Asia
+6,Taiwan,10,0,Asia
+7,Australia,9,0,Australia/Oceania
+8,Malaysia,8,0,Asia
+9,United States,7,0,North America
+10,Macao,7,0,Asia
+11,Germany,6,0,Europe
+12,France,6,0,Europe
+13,Vietnam,5,0,Asia
+14,United Arab Emirates,4,0,Asia
+15,Canada,4,0,North America
+16,Russia,2,0,Europe
+17,Italy,2,0,Europe
+18,United Kingdom,2,0,Europe
+19,Philippines,1,0,Asia
+20,Nepal,1,0,Asia
+21,India,1,0,Asia
+22,Finland,1,0,Europe
+23,Sweden,1,0,Europe
+24,Sri Lanka,1,0,Asia
+25,Cambodia,1,0,Asia

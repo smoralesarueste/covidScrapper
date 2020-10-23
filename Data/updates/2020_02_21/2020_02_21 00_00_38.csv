@@ -1,0 +1,32 @@
+,"Country, Other",Total Cases,New Cases,Total Deaths,NewDeaths,Total Recovered,"Serious, Critical",Region
+0,China,75000,424.0,2236.0,118.0,18007.0,12017.0,Asia
+1,Diamond Princess,634,13.0,2.0,2.0,17.0,27.0,
+2,S. Korea,106,48.0,1.0,1.0,16.0,,Asia
+3,Japan,94,10.0,1.0,,20.0,4.0,Asia
+4,Singapore,85,1.0,,,37.0,4.0,Asia
+5,Hong Kong,67,2.0,2.0,,6.0,6.0,Asia
+6,Thailand,35,,,,17.0,2.0,Asia
+7,Taiwan,24,1.0,1.0,,2.0,1.0,Asia
+8,Malaysia,22,,,,17.0,,Asia
+9,Germany,16,,,,13.0,,Europe
+10,Vietnam,16,,,,14.0,,Asia
+11,Australia,15,,,,11.0,,Oceania
+12,USA,15,,,,3.0,,N.America
+13,France,12,,1.0,,7.0,,Europe
+14,Macao,10,,,,6.0,,Asia
+15,U.K.,9,,,,8.0,,Europe
+16,U.A.E.,9,,,,3.0,1.0,Asia
+17,Canada,8,,,,2.0,,N.America
+18,Iran,5,3.0,2.0,,,,Asia
+19,Philippines,3,,1.0,,2.0,,Asia
+20,India,3,,,,3.0,,Asia
+21,Italy,3,,,,,2.0,Europe
+22,Russia,2,,,,2.0,,Europe
+23,Spain,2,,,,2.0,,Europe
+24,Belgium,1,,,,1.0,,Europe
+25,Cambodia,1,,,,1.0,,Asia
+26,Egypt,1,,,,1.0,,Africa
+27,Finland,1,,,,1.0,,Europe
+28,Nepal,1,,,,1.0,,Asia
+29,Sri Lanka,1,,,,1.0,,Asia
+30,Sweden,1,,,,,,Europe

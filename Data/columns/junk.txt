@@ -1,0 +1,123 @@
+Unnamed: 0
+Region
+Change Today
+Today
+Today.1
+New Today
+Today's Deaths
+Total Critical
+Feb 3 Cases
+Feb 3 Deaths
+Feb 4 Cases
+Feb 4 Deaths
+Feb 5 Cases
+Feb 5 Deaths
+Feb 6 Cases
+Feb 6 Deaths
+Feb 6 Feb 7 Cases
+Feb 6 Feb 7 Deaths
+Feb 7,8 Cases
+Feb 7,8 Deaths
+Total Severe
+Feb 8 Cases
+Feb 8 Deaths
+Feb 9 Cases
+Feb 9 Deaths
+Feb 9,10 Cases
+Feb 9,10 Deaths
+Feb 10,11 Cases
+Feb 10,11 Deaths
+Feb 11 Cases
+Feb 11 Deaths
+Change (cases)
+Change (deaths)
+Serious, Critical
+New Cases
+NewDeaths
+NewCases
+ActiveCases
+Serious,Critical
+Tot Cases/1M pop
+Tot Deaths/1M pop
+Deaths/1M pop
+1stcase
+Reported1st case
+Tests/ 1M pop
+#
+NewRecovered
+Tests/
+1M pop
+
+Continent
+1 Caseevery X ppl
+1 Deathevery X ppl
+1 Testevery X ppl
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+
+Tests/
+1M pop
+

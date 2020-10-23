@@ -1,0 +1,21 @@
+,Country,Cases,Deaths,Region
+0,China,6070,133,Asia
+1,Thailand,14,0,Asia
+2,Hong Kong,11,0,Asia
+3,Taiwan,8,0,Asia
+4,Macau,7,0,Asia
+5,Malaysia,7,0,Asia
+6,Singapore,10,0,Asia
+7,Japan,7,0,Asia
+8,Australia,7,0,Oceania
+9,United States,5,0,America
+10,South Korea,4,0,Asia
+11,France,4,0,Europe
+12,Germany,4,0,Europe
+13,Canada,3,0,America
+14,Vietnam,2,0,Asia
+15,Cambodia,1,0,Asia
+16,Nepal,1,0,Asia
+17,United Arab Emirates,4,0,Middle East
+18,Finland,1,0,Europe
+19,Sri Lanka,1,0,Asia

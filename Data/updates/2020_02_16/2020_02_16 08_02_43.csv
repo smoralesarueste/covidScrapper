@@ -1,0 +1,30 @@
+,"Country, Territory",Total Cases,New Cases,Total Deaths,NewDeaths,Total Recovered,"Serious, Critical",Region
+0,China,68505,"+2,013",1665.0,142.0,9544.0,11272.0,Asia
+1,Japan,408,+70,1.0,,12.0,9.0,Asia
+2,Singapore,72,,,,18.0,6.0,Asia
+3,Hong Kong,56,,1.0,,1.0,7.0,Asia
+4,Thailand,34,,,,14.0,2.0,Asia
+5,S. Korea,29,+1,,,9.0,,Asia
+6,Malaysia,22,,,,8.0,,Asia
+7,Taiwan,18,,,,2.0,,Asia
+8,Germany,16,,,,3.0,,Europe
+9,Vietnam,16,,,,7.0,,Asia
+10,Australia,15,,,,10.0,,Oceania
+11,USA,15,,,,3.0,,N.America
+12,France,12,,1.0,,4.0,,Europe
+13,Macao,10,,,,3.0,,Asia
+14,U.K.,9,,,,8.0,,Europe
+15,Canada,8,,,,1.0,,N.America
+16,U.A.E.,8,,,,3.0,1.0,Asia
+17,Philippines,3,,1.0,,2.0,,Asia
+18,Italy,3,,,,,2.0,Europe
+19,India,3,,,,3.0,,Asia
+20,Russia,2,,,,2.0,,Europe
+21,Spain,2,,,,2.0,,Europe
+22,Egypt,1,,,,,,Africa
+23,Cambodia,1,,,,1.0,,Asia
+24,Sweden,1,,,,,,Europe
+25,Nepal,1,,,,1.0,,Asia
+26,Belgium,1,,,,1.0,,Europe
+27,Sri Lanka,1,,,,1.0,,Asia
+28,Finland,1,,,,1.0,,Europe

@@ -1,0 +1,29 @@
+,"Country, Territory",Total Cases,Feb 5 Cases,Total Deaths,Feb 5 Deaths,Total Recovered,Total Critical,Region
+0,China,24391,67.0,491.0,1.0,1014.0,3219.0,Asia
+1,Japan,33,,,,,,Asia
+2,Thailand,25,,,,8.0,1.0,Asia
+3,Singapore,24,,,,1.0,,Asia
+4,Hong Kong,21,3.0,1.0,,,,Asia
+5,S. Korea,18,,,,,,Asia
+6,Australia,14,1.0,,,3.0,,Oceania
+7,Malaysia,12,2.0,,,,,Asia
+8,Germany,12,,,,,,Europe
+9,Taiwan,11,,,,,,Asia
+10,USA,11,,,,,,N.America
+11,Macao,10,,,,,,Asia
+12,Vietnam,10,,,,3.0,,Asia
+13,France,6,,,,,1.0,Europe
+14,U.A.E.,5,,,,,,Asia
+15,Canada,5,,,,,,N.America
+16,Philippines,3,1.0,1.0,,,,Asia
+17,India,3,,,,,,Asia
+18,Italy,2,,,,,2.0,Europe
+19,Russia,2,,,,,,Europe
+20,U.K.,2,,,,,,Europe
+21,Sri Lanka,1,,,,1.0,,Asia
+22,Cambodia,1,,,,,,Asia
+23,Finland,1,,,,,,Europe
+24,Nepal,1,,,,,,Asia
+25,Sweden,1,,,,,,Europe
+26,Spain,1,,,,,,Europe
+27,Belgium,1,,,,,,Europe

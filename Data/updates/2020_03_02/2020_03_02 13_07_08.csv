@@ -1,0 +1,73 @@
+,"Country,Other",TotalCases,NewCases,TotalDeaths,NewDeaths,ActiveCases,TotalRecovered,"Serious,Critical"
+0,China,80026,202.0,2912.0,42.0,32313,44801.0,7110.0
+1,S. Korea,4335,599.0,26.0,5.0,4279,30.0,27.0
+2,Italy,1704,3.0,41.0,,1580,83.0,140.0
+3,Iran,1501,523.0,66.0,12.0,1144,291.0,
+4,Diamond Princess,705,,7.0,,598,100.0,36.0
+5,Japan,274,18.0,6.0,,226,42.0,19.0
+6,Germany,150,20.0,,,134,16.0,2.0
+7,France,130,,2.0,,116,12.0,9.0
+8,Spain,120,36.0,,,118,2.0,3.0
+9,Singapore,108,2.0,,,30,78.0,6.0
+10,Hong Kong,100,,2.0,,62,36.0,6.0
+11,USA,88,13.0,2.0,1.0,77,9.0,8.0
+12,Kuwait,56,10.0,,,56,,
+13,Bahrain,47,,,,47,,
+14,Thailand,43,1.0,1.0,,12,30.0,1.0
+15,Taiwan,40,,1.0,,27,12.0,1.0
+16,U.K.,36,,,,28,8.0,
+17,Australia,30,1.0,1.0,,14,15.0,1.0
+18,Malaysia,29,,,,7,22.0,
+19,Canada,24,,,,20,4.0,
+20,Switzerland,24,,,,23,1.0,
+21,Iraq,21,2.0,,,21,,
+22,U.A.E.,21,,,,16,5.0,2.0
+23,Norway,19,,,,19,,
+24,Netherlands,18,8.0,,,18,,1.0
+25,Vietnam,16,,,,0,16.0,
+26,Austria,15,1.0,,,15,,
+27,Sweden,14,,,,14,,
+28,Macao,10,,,,4,6.0,
+29,Israel,10,,,,9,1.0,
+30,Lebanon,10,,,,10,,
+31,San Marino,8,,1.0,,7,,1.0
+32,Belgium,8,6.0,,,7,1.0,
+33,Croatia,8,1.0,,,8,,
+34,Greece,7,,,,7,,
+35,Ecuador,6,,,,6,,1.0
+36,Finland,6,,,,5,1.0,
+37,Oman,6,,,,4,2.0,
+38,India,5,2.0,,,2,3.0,
+39,Mexico,5,,,,5,,
+40,Denmark,4,,,,4,,
+41,Pakistan,4,,,,4,,
+42,Philippines,3,,1.0,,0,2.0,
+43,Algeria,3,,,,3,,
+44,Azerbaijan,3,,,,3,,
+45,Czechia,3,,,,3,,
+46,Georgia,3,,,,3,,
+47,Iceland,3,,,,3,,
+48,Qatar,3,,,,3,,
+49,Romania,3,,,,2,1.0,
+50,Russia,3,1.0,,,1,2.0,
+51,Brazil,2,,,,2,,
+52,Egypt,2,,,,1,1.0,
+53,Indonesia,2,2.0,,,2,,
+54,Portugal,2,2.0,,,2,,
+55,Afghanistan,1,,,,1,,
+56,Andorra,1,1.0,,,1,,
+57,Armenia,1,,,,1,,
+58,Belarus,1,,,,1,,
+59,Cambodia,1,,,,0,1.0,
+60,Dominican Republic,1,,,,1,,
+61,Estonia,1,,,,1,,
+62,Ireland,1,,,,1,,
+63,Lithuania,1,,,,1,,
+64,Luxembourg,1,,,,1,,
+65,North Macedonia,1,,,,1,,
+66,Monaco,1,,,,1,,
+67,Nepal,1,,,,0,1.0,
+68,New Zealand,1,,,,1,,
+69,Nigeria,1,,,,1,,
+70,Sri Lanka,1,,,,0,1.0,
+71,Total:,89842,1454.0,3069.0,60.0,41137,45636.0,7374.0

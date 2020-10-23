@@ -1,0 +1,30 @@
+,"Country, Territory",Total Cases,Change (cases),Total Deaths,Change (deaths),Total Recovered,"Serious, Critical",Region
+0,China,66291,"+2,440",1520.0,140.0,7977.0,10730.0,Asia
+1,Japan,259,+8,1.0,,11.0,9.0,Asia
+2,Singapore,67,+9,,,17.0,8.0,Asia
+3,Hong Kong,56,+3,1.0,,1.0,7.0,Asia
+4,Thailand,33,,,,13.0,1.0,Asia
+5,S. Korea,28,,,,7.0,,Asia
+6,Malaysia,19,,,,7.0,,Asia
+7,Taiwan,18,,,,1.0,,Asia
+8,Germany,16,,,,1.0,,Europe
+9,Vietnam,16,,,,7.0,,Asia
+10,USA,15,,,,3.0,,N.America
+11,Australia,15,,,,10.0,,Oceania
+12,France,11,,,,3.0,1.0,Europe
+13,Macao,10,,,,3.0,,Asia
+14,U.K.,9,,,,1.0,,Europe
+15,Canada,8,+1,,,1.0,,N.America
+16,U.A.E.,8,,,,1.0,1.0,Asia
+17,Philippines,3,,1.0,,2.0,,Asia
+18,Italy,3,,,,,2.0,Europe
+19,India,3,,,,1.0,,Asia
+20,Spain,2,,,,1.0,,Europe
+21,Russia,2,,,,2.0,,Europe
+22,Sweden,1,,,,,,Europe
+23,Belgium,1,,,,,,Europe
+24,Egypt,1,+1,,,,,Africa
+25,Nepal,1,,,,1.0,,Asia
+26,Sri Lanka,1,,,,1.0,,Asia
+27,Finland,1,,,,1.0,,Europe
+28,Cambodia,1,,,,1.0,,Asia

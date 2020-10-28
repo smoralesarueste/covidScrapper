@@ -4,7 +4,7 @@ import auxsPkgs.infoPerCountry
 import auxsPkgs.updateData
 
 if __name__ == "__main__": 
-	print(chr(27) + "[2J")
+	print("\n"*2)
 	def showCentered(text, nChars):
 		if len(text)>nChars: 
 			print(text[0:nChars])

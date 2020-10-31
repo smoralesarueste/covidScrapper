@@ -2,6 +2,7 @@
 
 import auxsPkgs.infoPerCountry
 import auxsPkgs.updateData
+import auxsPkgs.plotCreator
 
 if __name__ == "__main__": 
 	print("\n"*2)
@@ -24,6 +25,8 @@ if __name__ == "__main__":
 	auxsPkgs.updateData.updateData()
 	print("\n")
 	auxsPkgs.infoPerCountry.updateData()
+	print("\n")
+	auxsPkgs.plotCreator.plotCountry()
 	print("\n")
 	print("="*nChars)
 	print("="*nChars+"\n")

@@ -1,4 +1,3 @@
-# python /Users/sebastianmorales/Desktop/Otros/Coronavirus\ Data/infoPerCountry.py
 
 import os
 import sys

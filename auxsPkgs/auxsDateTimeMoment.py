@@ -1,3 +1,4 @@
+import datetime
 
 # Objetos que guardan dia - mes - ano
 # Pueden transformarse a string en formato dd/mm/yyyy
@@ -75,6 +76,8 @@ class Date:
 		return ((date2>self) | (self==date2))
 	def __hash__(self):
 		return hash((self.day, self.month, self.year))
+	def todatetime(self): 
+		return datetime.date(self.year, self.month, self.day)
 
 
 # Objetos que guardan hora - minuto
@@ -111,6 +114,8 @@ class Time:
 		return self.dayProgress == time2.dayProgress
 	def __hash__(self):
 		return hash((self.hour,self.minute,self.second))
+	def todatetime(self): 
+		return datetime.time(self.hour, self.minute, self.second)
 
 # Objeto que guarda fecha - hora
 # Puede utilizar desigualdades
@@ -139,6 +144,8 @@ class Moment:
 		return hash((self.date, self.time))
 	def pathString(self): 
 		return self.date.pathString() + " " + self.moment.pathString()
+	def todatetime(self): 
+		return datetime.datetime(self.date.year, self.date.month, self.date.day, self.time.hour, self.time.minute, self.time.second)
 
 
 

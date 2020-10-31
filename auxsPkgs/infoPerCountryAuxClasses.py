@@ -22,15 +22,15 @@ class Country:
 			self.population = []
 			self.date = []
 			self.time = []
-			return
-		table = pd.read_csv(filePath)
-		self.totalCases = table["totalCases"].values.tolist()
-		self.totalDeaths = table["totalDeaths"].values.tolist()
-		self.totalRecoveries = table["totalRecoveries"].values.tolist()
-		self.totalTests = table["totalTests"].values.tolist()
-		self.population = table["Population"].values.tolist()
-		self.date = table["date"].values.tolist()
-		self.time = table["time"].values.tolist()
+		else:
+			table = pd.read_csv(filePath)
+			self.totalCases = table["totalCases"].values.tolist()
+			self.totalDeaths = table["totalDeaths"].values.tolist()
+			self.totalRecoveries = table["totalRecoveries"].values.tolist()
+			self.totalTests = table["totalTests"].values.tolist()
+			self.population = table["Population"].values.tolist()
+			self.date = table["date"].values.tolist()
+			self.time = table["time"].values.tolist()
 	def getNames(self): 
 		filePath = self.myPath + "/myNames.txt"
 		if not os.path.exists(filePath): 
@@ -237,7 +237,6 @@ class Countries:
 		for i in range(len(self.countries)): 
 			self.countries[i].saveData()
 		self.saved = True
-			
 
 # Objeto que guarda todos los nombres utilizados para las columnas que interesan
 class Columns: 

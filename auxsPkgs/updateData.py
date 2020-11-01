@@ -8,6 +8,7 @@ import pathlib
 import pandas as pd
 
 basePath = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+dims = os.get_terminal_size()
 
 import datetime
 from auxsPkgs.auxsDateTimeMoment import Date, Time, Moment
@@ -26,7 +27,7 @@ def printTitle(text, nChars):
 
 # Ve los datos que ya existen y actualiza de ahi en adelante
 def updateData(): 
-	printTitle("Downloading new Data", 150)
+	printTitle("Downloading new Data", dims[0])
 	dataPath = basePath + "/Data/updates"
 	folders = [x[0] for x in os.walk(dataPath)]
 	# Se ve en las carpetas que existen, la fecha mas "alta"

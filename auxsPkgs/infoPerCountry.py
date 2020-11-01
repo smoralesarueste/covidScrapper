@@ -10,6 +10,7 @@ import datetime
 import auxsPkgs.auxsDateTimeMoment
 
 basePath = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+dims = os.get_terminal_size()
 
 def printTitle(text, nChars): 
 	if len(text)>nChars: 
@@ -22,7 +23,7 @@ def printTitle(text, nChars):
 		print("="*nChars)
 
 def updateData(): 
-	printTitle("Updating Data from Countries", 150)
+	printTitle("Updating Data from Countries", dims[0])
 	columns = auxsPkgs.infoPerCountryAuxClasses.Columns()
 	# Se crea objeto con todos los paises conocidos
 	countries = auxsPkgs.infoPerCountryAuxClasses.Countries()

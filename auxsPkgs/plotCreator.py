@@ -18,6 +18,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 basePath = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+dims = os.get_terminal_size()
 
 def printTitle(text, nChars): 
 	if len(text)>nChars: 
@@ -156,7 +157,7 @@ def plot(country):
 	plt.show()
 
 def plotCountry(): 
-	printTitle("Showing Time Series per Country", 150)
+	printTitle("Showing Time Series per Country", dims[0])
 	countries = auxsPkgs.infoPerCountryAuxClasses.Countries()
 	country = getCountry(countries)
 	plot(country)

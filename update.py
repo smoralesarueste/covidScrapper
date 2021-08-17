@@ -1,4 +1,3 @@
-# python /Users/sebastianmorales/Desktop/Prog/Python\ Projs/Coronavirus\ Data/update.py 
 
 import auxsPkgs.infoPerCountry
 import auxsPkgs.updateData
